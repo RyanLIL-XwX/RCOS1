@@ -19,3 +19,21 @@ After we get the "majorData2022.txt", so we can just put the file in the to_json
 data in the "majorData2022.txt".
 
 to_json_2022.py -> read -> "majorData2022.txt" -> write -> majorData2022test.json
+
+The work i did for our group this semester is that we update a README.txt about all the files that using in the -> rpi_data/Degree_Templates. We update a clear README.txt for our program about what python files can generate what type of text or JSON file. And the whole process of these codes in the file. Also, I and my teammate wrote a to_json.py to generate a JSON file about all the major information. (FILE: finalJson -> majorData2022.json) Also, I debugged one of the python files also gives each file commands. And finally, we found the problem is the major environmental science, so I put the link of environmental science into txt file called enviornmental_Science.txt. Then the major_scrap.py get the Database.txt successfully.
+Lastly, we handle the final database, for combine the 2021-spring.csv and 2022-spring.csv to the 2023-spring.csv by learning pandas and writing in python code.
+Most of the files we did for the semester:
+Database.txt
+README.txt
+majorData2022.json
+environmental_Science.txt
+folder(no_use)
+folder(new)
+folder(finaljson)
+to_json_2022.py
+csvTOtxt.py
+get2023S.py
+spring-2023_Spring.txt
+final(folder)
+ccode.py
+spring-2023.csv
